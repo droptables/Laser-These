@@ -5,7 +5,7 @@ This repository consists of different file formats that have been used in the cr
 
 See the final pieces at: [https://noazart.net](https://noazart.net)
 
-# Repostory Consists Of:
+# Files in Repository:
 
   - CorelDraw X6 and X7 files
   - Bitmap images for vector tracing or editing
