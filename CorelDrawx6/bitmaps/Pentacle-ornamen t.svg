@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="512"
+   height="512"
+   viewBox="0 0 499 501"
+   enable-background="new 0 0 499 501"
+   xml:space="preserve"
+   id="svg2233"
+   sodipodi:version="0.32"
+   inkscape:version="0.43+devel"
+   sodipodi:docname="endless_corrected_meta_4.svg"
+   sodipodi:docbase="E:\Projects\Graphics"><defs
+   id="defs4077" />
+   <metadata
+   id="metadata2252">    <rdf:RDF>
+      <cc:Work
+   rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Pentagram (Endless Knot)</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Kovács Endre János</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:identifier>http://commons.wikimedia.org/wiki/Image:Pentagram_(endless_knot).svg</dc:identifier>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>pentagram</rdf:li>
+            <rdf:li>pentacle</rdf:li>
+            <rdf:li>endless knot</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>A pentagram in a circle. The pentagram in this form is often referred to as &quot;the endless knot&quot;.</dc:description>
+        <dc:date>2005-08-08</dc:date>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Wikimedia</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <cc:license
+   rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+      </cc:Work>
+      <cc:License
+   rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+   rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+   rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+   rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+   rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+   rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+   rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+   inkscape:window-height="721"
+   inkscape:window-width="1024"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   width="520px"
+   height="520px"
+   inkscape:zoom="0.85009742"
+   inkscape:cx="254.17916"
+   inkscape:cy="273.0356"
+   inkscape:window-x="-4"
+   inkscape:window-y="-4"
+   inkscape:current-layer="svg2233" />
+
+<path
+   id="path2237"
+   style="fill:white;stroke:black;stroke-width:6.84960938"
+   d="M 75.137029,76.138026 C 28.564207,122.71183 2.9140008,184.63584 2.9140008,250.50051 C 2.9140008,316.36514 28.564207,378.29014 75.137029,424.86396 C 121.70986,471.43779 183.63486,497.086 249.4995,497.086 C 315.36515,497.086 377.28816,471.4358 423.86298,424.86396 C 470.4378,378.29014 496.086,316.36514 496.086,250.50051 C 496.086,184.63584 470.43581,122.71183 423.86298,76.137028 C 377.28816,29.564205 315.36515,3.9139993 249.4995,3.9139993 C 183.63486,3.9139993 121.71086,29.564205 75.137029,76.138026 z M 30.031143,250.5005 C 30.031143,129.48474 128.48376,31.03114 249.49951,31.03114 C 370.51526,31.03114 468.96886,129.48474 468.96886,250.5005 C 468.96886,371.51722 370.51526,469.96885 249.49951,469.96885 C 128.48376,469.96885 30.031143,371.51722 30.031143,250.5005 z " />
+
+<g
+   id="g3149"
+   transform="matrix(0.957636,0,0,0.957612,10.64595,10.48611)"
+   style="fill:white;stroke:black;stroke-width:7.15271282"><path
+     id="path2241"
+     d="M 169.366,254.477 C 176.277,259.498 183.417,264.687 190.705,269.981 C 198.191,246.941 244.119,105.593 249.42,89.273 C 254.724,105.593 265.181,137.775 277.559,175.87 L 303.936,175.87 L 249.42,8.09 L 169.366,254.477 z " /><path
+     id="path2245"
+     d="M 161.214,279.564 C 141.632,339.83 106.7,447.34 106.7,447.34 C 106.7,447.34 198.155,380.896 249.421,343.649 L 270.76,328.145 L 316.287,295.067 C 313.613,286.836 310.887,278.446 308.137,269.98 L 249.421,312.64 L 228.082,328.145 C 195.16,352.064 167.721,371.999 154.417,381.666 C 159.499,366.028 169.98,333.77 182.555,295.067" /><path
+     id="path2243"
+     d="M 228.081,328.145 L 249.42,312.64 C 229.822,298.401 109.584,211.042 95.7,200.956 C 112.862,200.956 146.699,200.956 186.755,200.956 L 194.906,175.87 L 18.493,175.87 L 228.081,328.145 z " /><path
+     id="path2247"
+     d="M 312.086,200.956 C 303.431,200.956 294.608,200.956 285.708,200.956 C 292.987,223.359 339.343,366.027 344.425,381.665 C 335.029,374.838 270.759,328.144 270.759,328.144 L 249.42,343.648 L 392.142,447.34 L 312.086,200.956 z " /><path
+     id="path2249"
+     d="M 337.626,279.563 C 388.893,242.317 480.348,175.87 480.348,175.87 L 221.284,175.87 C 218.644,183.995 215.916,192.391 213.133,200.956 C 236.69,200.956 386.698,200.956 403.14,200.956 C 389.837,210.621 362.399,230.559 329.476,254.477 L 337.626,279.563 z " /></g>
+</svg>
